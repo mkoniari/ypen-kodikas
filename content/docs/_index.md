@@ -1,10 +1,7 @@
 ---
-title: Documentation
-next: first-page
+title: Κώδικας Χωροταξίας και Πολεοδομίας
+toc: false
 ---
 
-This is a demo of the theme's documentation layout.
-
-## Hello, World!
-
+{{< card-list >}}
 

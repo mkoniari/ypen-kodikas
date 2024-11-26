@@ -1,7 +1,9 @@
 ---
 weight: 2
-bookFlatSection: false
-bookCollapseSection: true
+type: docs
+sidebar:
+  open: false
 title: "ΤΜΗΜΑ III: ΠΟΛΕΟΔΟΜΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ"
 ---
 
+{{< card-list >}}

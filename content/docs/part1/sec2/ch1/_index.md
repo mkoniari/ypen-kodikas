@@ -1,6 +1,9 @@
 ---
-weight: 2
+weight: 3
+type: docs
+sidebar:
+  open: false
 title: "ΚΕΦΑΛΑΙΟ Α΄: ΧΕΡΣΑΙΟΣ ΧΩΡΟΤΑΞΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ"
-linkTitle: ΚΕΦΑΛΑΙΟ Α΄
 ---
 
+{{< card-list >}}

@@ -1,7 +1,9 @@
 ---
 weight: 2
-bookFlatSection: false
-bookCollapseSection: true
+type: docs
+sidebar:
+  open: false
 title: "ΤΜΗΜΑ IV: ΕΞΟΥΣΙΟΔΟΤΙΚΕΣ ΚΑΙ ΜΕΤΑΒΑΤΙΚΕΣ ΔΙΑΤΑΞΕΙΣ ΤΜΗΜΑΤΩΝ ΙΙ και ΙΙΙ"
 ---
 
+{{< card-list >}}

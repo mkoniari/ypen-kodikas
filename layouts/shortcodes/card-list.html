@@ -1,0 +1,25 @@
+<!-- https://github.com/imfing/hextra/issues/464 -->
+<!-- https://github.com/imfing/hextra/issues/439 -->
+
+{{ .Scratch.Set "pages" .Page.Pages }}
+{{ $pages := (.Scratch.Get "pages") }}
+
+<div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose"
+     style="--hextra-cards-grid-cols: 2;">
+
+{{template "childs" (dict "menu" $pages.ByWeight "pages" .Site.Pages) }}
+
+</div>
+
+{{ define "childs" }}
+    {{ range .menu }}
+    {{ $icon := .Page.Params.icon }}
+    {{ $tags := .Page.Params.tags }}
+    {{ partial "shortcodes/card.html" (dict
+        "link" .RelPermalink
+        "title" .Title
+        "subtitle" .Description
+        "icon" $icon        
+    )}}
+    {{end}}
+{{end}}

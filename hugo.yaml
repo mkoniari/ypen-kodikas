@@ -16,6 +16,8 @@ markup:
   highlight:
     noClasses: false
 
+
+
 menu:
   main:
     - name: Κώδικας
@@ -49,3 +51,7 @@ params:
   editURL:
     enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+
+  docs:
+    list:
+      displayTags: true

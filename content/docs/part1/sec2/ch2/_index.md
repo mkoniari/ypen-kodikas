@@ -1,7 +1,9 @@
 ---
-weight: 2
-bookFlatSection: true
-bookCollapseSection: true
+weight: 3
+type: docs
+sidebar:
+  open: false
 title: "ΚΕΦΑΛΑΙΟ Β΄: ΘΑΛΑΣΣΙΟΣ ΧΩΡΟΤΑΞΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ"
 ---
 
+{{< card-list >}}
