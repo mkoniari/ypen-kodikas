@@ -16,6 +16,7 @@ export default defineConfig({
   token: process.env.TINA_TOKEN,
 
   build: {
+    basePath:"ypen-kodikas",
     outputFolder: "admin",
     publicFolder: "static",
   },
