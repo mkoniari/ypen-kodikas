@@ -1,9 +1,9 @@
 ---
-weight: 2
+weight: 5
 type: docs
 sidebar:
   open: false
-title: "ΤΜΗΜΑ V : ΑΠΑΓΟΡΕΥΣΕΙΣ ΚΑΤΑΤΜΗΣΗΣ ΑΚΙΝΗΤΩΝ"
+title: "ΤΜΗΜΑ V: ΑΠΑΓΟΡΕΥΣΕΙΣ ΚΑΤΑΤΜΗΣΗΣ ΑΚΙΝΗΤΩΝ"
 ---
 
 {{< card-list >}}

@@ -6,12 +6,12 @@ prev: art398
 next: art400
 ---
 
-<img src="media/image2.jpg" style="width:6.51in;height:9.04in" alt="A close-up of a questionnaire Description automatically generated" />
+![Άρθρο 399_1](399_1.jpg "Φύλλο καταγραφής αυθαίρετης κατασκευής")
 
-<img src="media/image3.jpg" style="width:6.77in;height:9.76in" alt="A close-up of a questionnaire Description automatically generated" />
+![Άρθρο 399_2](399_2.jpg "Φύλλο καταγραφής αυθαίρετης κατασκευής")
 
-> <img src="media/image4.jpg" style="width:6.6in;height:9.64in" alt="A close-up of a document Description automatically generated" />
+![Άρθρο 399_3](399_3.jpg "Φύλλο καταγραφής αυθαίρετης κατασκευής")
 
-<img src="media/image5.jpg" style="width:5.76806in;height:9.3284in" alt="A close-up of a paper Description automatically generated" />
+![Άρθρο 399_4](399_4.jpg "Φύλλο καταγραφής αυθαίρετης κατασκευής")
 
 

@@ -1,9 +1,9 @@
 ---
-weight: 2
+weight: 7
 type: docs
 sidebar:
   open: false
-title: "TMHMA VII - ΔΟΜΗΣΗ ΣΤΙΣ ΑΚΤΕΣ"
+title: "TMHMA VII: ΔΟΜΗΣΗ ΣΤΙΣ ΑΚΤΕΣ"
 ---
 
 {{< card-list >}}

@@ -1,9 +1,9 @@
 ---
-weight: 2
+weight: 3
 type: docs
 sidebar:
   open: false
-title: "Τμήμα ΙΙΙ: Εκτός Σχεδίου Δόμηση"
+title: "ΤΜΗΜΑ ΙΙΙ: Εκτός Σχεδίου Δόμηση"
 ---
 
 {{< card-list >}}
