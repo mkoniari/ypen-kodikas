@@ -20,7 +20,7 @@ next: art205
 
 {{% details title="ΎΑ x 10%" closed="true" %}}
 {{< callout >}}
- ![Α x 10%](204_1a.svg "Α x 10%")
+ ![Α x 10](204_1a.svg "Α x 10%")
 {{< /callout >}}
 {{% /details %}}
 
