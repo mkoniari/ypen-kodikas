@@ -2,7 +2,7 @@
 aptPkgs = ["hugo"]
 
 [phases.install]
-cmds = ["hugo mod get github.com/imfing/hextra", "go mod tidy"]
+cmds = ["hugo mod get github.com/imfing/hextra", "hugo mod get -u", "go mod tidy"]
 
 [ phases.build ]
 cmds = ["hugo mod get github.com/imfing/hextra", "hugo --gc --minify"]
