@@ -1,8 +1,11 @@
 [phases.setup]
 aptPkgs = ["hugo"]
 
+[phases.install]
+cmds = ["go mod tidy"]
+
 [ phases.build ]
-cmds = ["hugo --minify"]
+cmds = ["hugo --gc --minify"]
 
 [ environment ]
 HUGO_VERSION = "0.132.2"
