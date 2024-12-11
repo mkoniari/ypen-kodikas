@@ -18,13 +18,6 @@ toc: false
 
 ## Εξερευνήστε
 
-{{< cards >}}
-  {{< card link="docs" title="Κώδικας" icon="book-open" >}}
-  {{< card link="annex1" title="ΠΙΝΑΚΑΣ ΚΩΔΙΚΟΠΟΙΗΤΙΚΩΝ – ΚΩΔΙΚΟΠΟΙΟΥΜΕΝΩΝ ΔΙΑΤΑΞΕΩΝ" icon="user" >}}
-  {{< card link="annex2" title="ΧΡΟΝΟΛΟΓΙΚΟΣ ΠΙΝΑΚΑΣ" icon="user" >}}  
-  
-{{< /cards >}}
-
 
 
 <!-- 
