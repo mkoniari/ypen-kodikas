@@ -4,7 +4,7 @@ title: ΚΩΔΙΚΑΣ ΧΩΡΟΤΑΞΙΑΣ – ΠΟΛΕΟΔΟΜΙΑΣ
 # import hextra as module
 module:
   imports:
-  - path: github.com/imfing/hextra
+  - path: https://github.com/imfing/hextra
 
 markup:
   # allow raw html
