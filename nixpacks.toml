@@ -5,7 +5,7 @@ aptPkgs = ["hugo"]
 cmds = ["hugo mod get github.com/imfing/hextra", "hugo mod get -u", "go mod tidy"]
 
 [ phases.build ]
-cmds = ["hugo mod get github.com/imfing/hextra", "hugo --gc --minify"]
+cmds = ["hugo mod get -u", "hugo --gc --minify"]
 
 [ environment ]
 HUGO_VERSION = "0.132.2"
